@@ -1,2 +1,8 @@
 Este arquivo foi alterado recentemente.
 Entender o GIT é fundamental para o desenvolvedor eficaz.
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+
+Segunda alteração no documento Bob.txt.
+Verifique as mudanças no seu git (git diff) após a alteração.
+O diff acusa todas as alterações feitas no Working Directory.
